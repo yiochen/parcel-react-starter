@@ -1,14 +1,16 @@
 {
-  "name": "styled-components-sourcemap",
+  "name": "parcel-react-starter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "private": true,
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
+    "prettier": "prettier --write **/*.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "yiouc99@gmail.com",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.1.6",

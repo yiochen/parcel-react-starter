@@ -17,3 +17,9 @@ yarn start
 ```
 yarn build
 ```
+
+## format code
+
+```
+yarn prettier
+```
